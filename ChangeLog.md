@@ -1,4 +1,4 @@
-# Changelog for TEMPLATE
+# Changelog for data-diff
 
 ## Unreleased changes
 
